@@ -116,22 +116,19 @@ Overview and Agent Analysis: **Team lead & Manager** (non-technical users)
 
 
 # Analysis and Insights
-The purpose of this dashboard is to serve as self-exploratory for managers, but I still note some highlighted points that I recognize below:
 
 ********************About Call trends:********************
 
-- Customers tend to call more between 5:00 pm - 5:30 pm at 250 calls received with an abandoned rate is 18.40% (approximately to the average abandoned rate) and distributed mainly in the middle of the month
-- The highest abandoned rate is 28.03% between 1:00 pm - 1:30 pm
-- Customers have more problems with Streaming service
-- The resolved rate is at a high rate (89,94%)
+- Customers tend to call more between 4:00 pm - 5:00 pm at 575 calls received with an abandoned rate is 18.45% (approximately to the average abandoned rate).
+- Customers have more problems with Streaming service.
 
 ********************About performance of agents:********************
 
-- The agent who satisfies customers most is Becky with a 12.02% of “Very good” rating
-- The agent who has the highest resolved rate is Jim and he is effective with solving problems related to “Contract related” and “Admin Support”
+- The agent who satisfies customers most is Martha with a 42.48% of “Happy” and "Delighted" rating.
+- The agent who has the highest resolved rate is Dan and he is effective with solving problems related to “Streaming” and “Technical Support”.
 
 ********************About customer satisfaction:********************
 
-- The average customer satisfaction is at an acceptable rate with 3.40, mainly comes from “Average” (30.04%) and “Good” (29.11%) rating
+- The average customer satisfaction is at an acceptable rate with 40.46%, mainly comes from “Happy” (58.23%)
 - The correlation between call answered and call resolved is strongly positive which resulted in a increase in the customer satisfaction rate
  ### Thank You!
